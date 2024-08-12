@@ -8,7 +8,7 @@ function playvid() {
 
     }
 
-    document.getElementById("v").play()
+    
 }
 
 document.getElementById ("fullyear").innerHTML = new Date ().getFullYear();
