@@ -480,6 +480,10 @@ footer .copyright {
 
     }
 
+    section.video video{
+        right: -546px;
+    }
+
     footer {
         text-align: center;
     }
